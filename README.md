@@ -1,4 +1,4 @@
-👋 Hi, I’m @RishiKumarRajvansh
+👋 Hi, I’m Rishi Kumar
 
 🔍 I’m transitioning to become a Data Analyst
 
