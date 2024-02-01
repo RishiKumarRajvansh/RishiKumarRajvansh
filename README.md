@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @RishiKumarRajvansh
-- 👀 I’m interested in WEB deplopment
-- 🌱 I’m currently learning JSP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Rishikumarrajvansh@gmail.com
+👋 Hi, I’m @RishiKumarRajvansh
+🔍 I’m transitioning to become a Data Analyst
+📊 Currently mastering data analysis tools such as Python, SQL, and pandas
+📈 Actively working on projects involving data visualization and statistical analysis
+💼 Open to collaboration on data-driven projects
+📧 Reach me at Rishikumarrajvansh@gmail.com
+
 
 <!---
 RishiKumarRajvansh/RishiKumarRajvansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
